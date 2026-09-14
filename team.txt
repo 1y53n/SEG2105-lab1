@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Elizabeth
 Tysen
 John
 Yashna
+=======
+Yashna
+>>>>>>> f9730ff (added Yashna to team)
